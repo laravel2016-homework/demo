@@ -65,7 +65,6 @@
         </style>
     </head>
     <body>
-        <h1>Hello from Blade!</h1>
-        </div>
+        <h1>Hello from Blade!</h1>        
     </body>
 </html>
